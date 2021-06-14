@@ -12,8 +12,8 @@ import './banner.styles.css';
 const Banner = () => {
     return (
         <Carousel
-        showThumbs={false}
-        showStatus={false}
+            showThumbs={false}
+            showStatus={false}
          >
             <div className='banner-image-container '>
                 <img src={backTherapy}  alt="placeholder"/>
@@ -26,10 +26,10 @@ const Banner = () => {
                     <h2 className='carousel-sub-header'>SPIRITUAL HEALER AND LIFE COACH</h2>
                 </div>
             </div>
-            <div className='image-container'>
+            <div>
                 <img src={backTherapy}  alt="placeholder"/>
             </div>
-            <div className='image-container'> 
+            <div> 
                 <img src={backTherapy}  alt="placeholder"/>
             </div>
         </Carousel>

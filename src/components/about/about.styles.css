@@ -1,0 +1,36 @@
+.about-wrapper {
+  text-align: left;
+  color: #314359;
+  background-color: #eeeae5;
+  width: 50%;
+}
+
+.about-container {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  padding-top: 16.5%;
+  max-height: 50%;
+}
+
+.about-header-container {
+  margin-bottom: 6%;
+}
+
+.about-header {
+  margin: 0;
+  padding: 0;
+  font-size: 3.75vw;
+  font-weight: bold;
+  line-height: 4.5vw;
+}
+
+.about-detail {
+  padding-top: 15%;
+}
+
+.about-detail > p {
+  margin-top: 0;
+  font-size: 1.35vw;
+  line-height: 2.2vw;
+}

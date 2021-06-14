@@ -1,6 +1,4 @@
 .banner-image-container {
-  position: relative;
-  text-align: center;
   color: white;
 }
 
@@ -19,7 +17,7 @@
 
 .carousel-header,
 .carousel-sub-header {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -30,4 +28,12 @@
 
 .carousel-sub-header {
   font-size: 2vw;
+}
+
+.control-arrow {
+  width: 25px;
+}
+
+.control-next {
+  width: 25px;
 }

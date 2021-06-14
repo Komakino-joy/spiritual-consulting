@@ -1,7 +1,0 @@
-.section {
-  display: flex;
-  height: 42vw;
-  margin-top: 5px;
-  flex-wrap: wrap;
-  flex-basis: 100%;
-}
