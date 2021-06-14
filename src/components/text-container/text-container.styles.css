@@ -1,0 +1,24 @@
+.text-wrapper {
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  color: #314359;
+  background-color: #eeeae5;
+  width: 50%;
+}
+
+.text-container {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  padding-top: 12%;
+  max-height: 50%;
+}
+
+.text-heading {
+  margin: 0;
+  font-size: 3.2vw;
+}
+
+.text-detail {
+  font-size: 1.5vw;
+}

@@ -1,0 +1,22 @@
+.client-reviews-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #314359;
+  width: 100%;
+}
+
+.review-header {
+  position: absolute;
+  font-size: 3.5vw;
+  color: whitesmoke;
+  width: 100%;
+  text-align: center;
+}
+
+.divider {
+  float: left;
+  height: 50%;
+  width: 1px;
+  background-color: whitesmoke;
+}

@@ -1,0 +1,36 @@
+.our-packages-container {
+  background-color: #eeeae5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.packages-header {
+  font-size: 3.5vw;
+  margin-bottom: 0;
+}
+
+.packages-detail {
+  margin-top: 0;
+  margin-bottom: 5%;
+}
+
+.pacakage-images-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 55%;
+}
+
+.pacakage-images-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.package-image {
+  height: 500px;
+  width: 500px;
+}

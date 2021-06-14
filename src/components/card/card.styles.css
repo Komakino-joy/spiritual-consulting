@@ -1,0 +1,29 @@
+.card-container {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+}
+
+.card-header {
+  margin-bottom: 0;
+  font-size: 2vw;
+}
+
+.card-sub-header {
+  margin-top: 0;
+  font-size: 1vw;
+}
+
+.user-portrait {
+  width: 45%;
+  border-radius: 50%;
+}
+
+.bio {
+  font-size: 1vw;
+}
